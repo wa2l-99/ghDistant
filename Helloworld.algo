@@ -3,7 +3,7 @@ Algo HelloWorld {
 // Création de la fenetre
 Créer une fenetre de titre ‘Hello world’
 // Fenetre large et alignement à gauche 
-Mettre la dimension à 200, 200
+Mettre la dimension à 350, 350
 Configurer la fenetre sur ‘exitOnClose’
 // Création du label de texte
 // Couleur du texte principal en bleu
